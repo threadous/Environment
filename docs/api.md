@@ -4,13 +4,15 @@
 
 Place the downloaded package in game/ReplicatedStorage. Create a server and a client:
 
-https://github.com/threadous/Environment/blob/f03573f76ccd581cd56df123044b1b958711061a/Source/ExampleServer.lua#L1-L4
-
 Set up for both server and client is the same, except you use RbxEnv.LoadClient() on the client. 
+
+<script src="https://gist.github.com/threadous/44034013c26c046f239452b15407c37c.js"></script>
 
 ## Creating an Environment
 
-https://github.com/threadous/Environment/blob/4e4baa79f8c2aa9150dc31c276689461f6dcc23d/Source/CreateEnv.lua#L1
+<script>
+  local Hi = "HI"
+</script>
 
 ## Creating a shared variable
 
