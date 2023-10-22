@@ -6,13 +6,9 @@ Place the downloaded package in game/ReplicatedStorage. Create a server and a cl
 
 Set up for both server and client is the same, except you use RbxEnv.LoadClient() on the client. 
 
-<script src="https://gist.github.com/threadous/44034013c26c046f239452b15407c37c.js"></script>
 
 ## Creating an Environment
 
-<script
-  src="local Hi = 'HI'">
-</script>
 
 ## Creating a shared variable
 
@@ -21,7 +17,7 @@ It isn't recommended to create ALL your variables using RbxEnv. If you have vari
 To create a shared variable, you could do
 
 ## Accessing a shared variable
-<script src="https://gist.github.com/threadous/44034013c26c046f239452b15407c37c.js"></script>
+
 
 ## Networks
 
