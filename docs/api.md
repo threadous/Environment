@@ -18,6 +18,9 @@ It isn't recommended to create ALL your variables using RbxEnv. If you have vari
 
 To create a shared variable, you could do
 
+## Accessing a shared variable
+<script src="https://gist.github.com/threadous/44034013c26c046f239452b15407c37c.js"></script>
+
 ## Networks
 
 Creating a Network with RbxEnv is completely optional. Networks are basically `Remote Events` which you can define inside environments. RbxEnv will automatically handle remote events for you without you sorting all your remote events into folders and organizing them. 
@@ -26,4 +29,7 @@ For easier understanding, 1 Network = 1 Remote Event. A `Network` is made up for
 
 Creating a network is very similar to creating a variable:
 
+### Handling a Network
+
+If you'd like the access the network from another script
 
