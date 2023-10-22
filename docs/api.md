@@ -24,4 +24,6 @@ Creating a Network with RbxEnv is completely optional. Networks are basically `R
 
 For easier understanding, 1 Network = 1 Remote Event. A `Network` is made up for 3 components: Name, Environment (Environment in which the networks runs in), and Core (the remote event object itself).
 
+Creating a network is very similar to creating a variable:
+
 
