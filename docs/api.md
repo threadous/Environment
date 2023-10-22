@@ -10,8 +10,8 @@ Set up for both server and client is the same, except you use RbxEnv.LoadClient(
 
 ## Creating an Environment
 
-<script>
-  local Hi = "HI"
+<script
+  src="local Hi = 'HI'">
 </script>
 
 ## Creating a shared variable
